@@ -1,0 +1,8 @@
+package com.venkat
+
+object MainObject {
+  
+  def main(args:Array[String]){
+    
+  }
+}
