@@ -1,0 +1,70 @@
+2017-08-09 12:10:01,548  WARN [ModalContext] - ScalaProject - Project sbt has platform default sourceLevel.
+2017-08-09 12:10:01,556  WARN [ModalContext] - ScalaProject - Project sbt runs on platform default installation.
+2017-08-09 12:10:06,291  WARN [Worker-1] - ScalaProject - Project sbt has platform default sourceLevel.
+2017-08-09 12:10:06,292  WARN [Worker-1] - ScalaProject - Project sbt runs on platform default installation.
+2017-08-09 12:11:00,799  WARN [ModalContext] - ScalaProject - Project sbtexample has platform default sourceLevel.
+2017-08-09 12:11:00,800  WARN [ModalContext] - ScalaProject - Project sbtexample runs on platform default installation.
+2017-08-09 12:11:02,309  WARN [Worker-20] - ScalaProject - Project sbtexample has platform default sourceLevel.
+2017-08-09 12:11:02,311  WARN [Worker-20] - ScalaProject - Project sbtexample runs on platform default installation.
+2017-08-09 12:11:02,325  WARN [Worker-20] - ScalaProject - Project sbtexample has platform default sourceLevel.
+2017-08-09 12:11:02,326  WARN [Worker-20] - ScalaProject - Project sbtexample runs on platform default installation.
+2017-08-09 12:11:53,681  WARN [Worker-24] - ScalaProject - Project sbtexample has platform default sourceLevel.
+2017-08-09 12:11:53,681  WARN [Worker-24] - ScalaProject - Project sbtexample runs on platform default installation.
+2017-08-09 12:12:01,815  WARN [Worker-5] - ScalaProject - Project sbtexample has platform default sourceLevel.
+2017-08-09 12:12:01,815  WARN [Worker-5] - ScalaProject - Project sbtexample runs on platform default installation.
+2017-08-09 12:12:11,482  WARN [Worker-1] - ScalaProject - Project sbtexample has platform default sourceLevel.
+2017-08-09 12:12:11,482  WARN [Worker-1] - ScalaProject - Project sbtexample runs on platform default installation.
+2017-08-09 12:12:21,525  WARN [Worker-15] - ScalaProject - Project sbtexample has platform default sourceLevel.
+2017-08-09 12:12:21,525  WARN [Worker-15] - ScalaProject - Project sbtexample runs on platform default installation.
+2017-08-09 12:12:50,999  WARN [Worker-15] - ScalaProject - Project sbtexample has platform default sourceLevel.
+2017-08-09 12:12:50,999  WARN [Worker-15] - ScalaProject - Project sbtexample runs on platform default installation.
+2017-08-09 12:12:51,179  WARN [Worker-19] - ScalaProject - Project sbtexample has platform default sourceLevel.
+2017-08-09 12:12:51,179  WARN [Worker-19] - ScalaProject - Project sbtexample runs on platform default installation.
+2017-08-09 12:13:15,171  WARN [Worker-5] - ScalaProject - Project sbtexample has platform default sourceLevel.
+2017-08-09 12:13:15,172  WARN [Worker-5] - ScalaProject - Project sbtexample runs on platform default installation.
+2017-08-09 12:13:24,634  WARN [main] - ScalaProject - Project sbtexample has platform default sourceLevel.
+2017-08-09 12:13:24,635  WARN [main] - ScalaProject - Project sbtexample runs on platform default installation.
+2017-08-09 12:13:34,552  WARN [Worker-20] - ScalaProject - Project sbtexample has platform default sourceLevel.
+2017-08-09 12:13:34,552  WARN [Worker-20] - ScalaProject - Project sbtexample runs on platform default installation.
+2017-08-09 12:13:34,977  WARN [Java indexing] - ScalaProject - Project sbtexample has platform default sourceLevel.
+2017-08-09 12:13:34,978  WARN [Java indexing] - ScalaProject - Project sbtexample runs on platform default installation.
+2017-08-09 12:13:41,476  WARN [Worker-5] - ScalaProject - Project sbtexample has platform default sourceLevel.
+2017-08-09 12:13:41,477  WARN [Worker-5] - ScalaProject - Project sbtexample runs on platform default installation.
+2017-08-09 12:14:17,001  WARN [Worker-23] - ScalaProject - Project sbtexample has platform default sourceLevel.
+2017-08-09 12:14:17,001  WARN [Worker-23] - ScalaProject - Project sbtexample runs on platform default installation.
+2017-08-09 12:14:28,991  WARN [main] - ScalaProject - Project sbtexample has platform default sourceLevel.
+2017-08-09 12:14:28,991  WARN [main] - ScalaProject - Project sbtexample runs on platform default installation.
+2017-08-09 12:14:29,409  WARN [Worker-21] - ScalaProject - Project sbtexample has platform default sourceLevel.
+2017-08-09 12:14:29,409  WARN [Worker-21] - ScalaProject - Project sbtexample runs on platform default installation.
+2017-08-09 12:14:30,963  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-08-09 12:14:57,397  WARN [Worker-15] - ScalaProject - Project sbtexample has platform default sourceLevel.
+2017-08-09 12:14:57,397  WARN [Worker-15] - ScalaProject - Project sbtexample runs on platform default installation.
+2017-08-09 12:15:00,836  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-08-09 12:15:01,036  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-08-09 12:15:02,940  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-08-09 12:15:13,973  WARN [Worker-20] - ScalaProject - Project sbtexample has platform default sourceLevel.
+2017-08-09 12:15:13,974  WARN [Worker-20] - ScalaProject - Project sbtexample runs on platform default installation.
+2017-08-09 12:15:35,352  WARN [Worker-22] - ScalaProject - Project sbtexample has platform default sourceLevel.
+2017-08-09 12:15:35,352  WARN [Worker-22] - ScalaProject - Project sbtexample runs on platform default installation.
+2017-08-09 12:15:45,681  WARN [Worker-5] - ScalaProject - Project sbtexample has platform default sourceLevel.
+2017-08-09 12:15:45,682  WARN [Worker-5] - ScalaProject - Project sbtexample runs on platform default installation.
+2017-08-09 12:17:30,747  WARN [Worker-26] - ScalaProject - Project sbtexample has platform default sourceLevel.
+2017-08-09 12:17:30,747  WARN [Worker-26] - ScalaProject - Project sbtexample runs on platform default installation.
+2017-08-09 12:19:13,387  WARN [Worker-15] - ScalaProject - Project sbtexample has platform default sourceLevel.
+2017-08-09 12:19:13,387  WARN [Worker-15] - ScalaProject - Project sbtexample runs on platform default installation.
+2017-08-09 12:19:47,241  WARN [Worker-29] - ScalaProject - Project sbtexample has platform default sourceLevel.
+2017-08-09 12:19:47,242  WARN [Worker-29] - ScalaProject - Project sbtexample runs on platform default installation.
+2017-08-09 12:20:48,818  WARN [Worker-29] - ScalaProject - Project sbtexample has platform default sourceLevel.
+2017-08-09 12:20:48,818  WARN [Worker-29] - ScalaProject - Project sbtexample runs on platform default installation.
+2017-08-09 12:21:21,095  WARN [Worker-28] - ScalaProject - Project sbtexample has platform default sourceLevel.
+2017-08-09 12:21:21,096  WARN [Worker-28] - ScalaProject - Project sbtexample runs on platform default installation.
+2017-08-09 12:21:58,700  WARN [Worker-24] - ScalaProject - Project sbtexample has platform default sourceLevel.
+2017-08-09 12:21:58,701  WARN [Worker-24] - ScalaProject - Project sbtexample runs on platform default installation.
+2017-08-09 12:23:41,856  WARN [Worker-28] - ScalaProject - Project sbtexample has platform default sourceLevel.
+2017-08-09 12:23:41,856  WARN [Worker-28] - ScalaProject - Project sbtexample runs on platform default installation.
+2017-08-09 12:28:19,090  WARN [main] - ScalaProject - Project sbtexample has platform default sourceLevel.
+2017-08-09 12:28:19,090  WARN [main] - ScalaProject - Project sbtexample runs on platform default installation.
+2017-08-09 12:29:05,783  WARN [Worker-15] - ScalaProject - Project sbtexample has platform default sourceLevel.
+2017-08-09 12:29:05,783  WARN [Worker-15] - ScalaProject - Project sbtexample runs on platform default installation.
+2017-08-09 12:29:13,011  WARN [Worker-33] - ScalaProject - Project sbtexample has platform default sourceLevel.
+2017-08-09 12:29:13,011  WARN [Worker-33] - ScalaProject - Project sbtexample runs on platform default installation.
